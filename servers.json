@@ -1,5 +1,9 @@
 {
   "servers": [
+        {
+      "name": "Custom",
+      "address": "https://ansietteselfhost.onrender.com"
+    },
     {
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
